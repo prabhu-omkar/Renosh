@@ -1,6 +1,6 @@
 # Renosh Ecosystem: Smart Food Wastage Management Platform 🍽️🌱
 
-*Renoshwas eloped with [Sumanth](https://github.com/sumanthd032) and [Shreesha](https://github.com/Shreesha001).*
+*Renosh was developed with [Sumanth](https://github.com/sumanthd032) and [Shreesha](https://github.com/Shreesha001).*
 
 Renosh is a comprehensive, multi-application ecosystem designed to tackle food wastage in the restaurant industry. It bridges the gap between food producers, everyday consumers, and local charities to ensure that surplus food is either sold at a discount or donated, rather than being thrown away.
 
